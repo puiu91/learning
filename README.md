@@ -1,1 +1,1 @@
-# learning
+# webpack2-basic-setup
